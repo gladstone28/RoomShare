@@ -5,4 +5,10 @@ This is a Jamaican 'Airbnb' type service where you can come share a Room for a p
 
 ## There is more
 
-soon tell you more
+ book some time on the beach until you check into your main vacation hotel tell you more
+
+
+
+###### NG: memory jog
+
+/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/RoomShare
