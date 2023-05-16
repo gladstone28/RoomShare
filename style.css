@@ -12,7 +12,7 @@ body {
 
 .header {
     background-color: rgba(0, 0, 0, 0.5px);
-    color: #4130d6;
+    color: #d3965e;
     padding-top: 10px;
     grid-column: 1 / 7;
     display: grid;
@@ -20,7 +20,7 @@ body {
 
 .title {
     margin: auto;
-    color: #674fee;
+    color: #ee4f4f;
     font-family: Poppins;
     font-size: 2em;
     font-weight: 700;
